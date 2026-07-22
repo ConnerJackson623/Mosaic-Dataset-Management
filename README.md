@@ -2,9 +2,9 @@
 
 ## Overview
 
-This ArcGIS Pro project demonstrates the creation and management of a mosaic dataset for raster imagery. The project involved organizing imagery into a single dataset, configuring raster properties, visualizing imagery, and producing a finished map for analysis.
+This ArcGIS Pro project demonstrates the creation and management of a mosaic dataset. Multiple raster images were organized into a single dataset, allowing the imagery to be managed, displayed, and analyzed as one continuous surface.
 
-Mosaic datasets allow multiple raster images to be managed as one continuous dataset, making them useful for large imagery collections and remote sensing workflows.
+Mosaic datasets are commonly used for aerial photography, satellite imagery, and other large raster collections.
 
 ---
 
@@ -13,10 +13,10 @@ Mosaic datasets allow multiple raster images to be managed as one continuous dat
 - ArcGIS Pro
 - Raster data management
 - Mosaic datasets
-- Image visualization
-- Raster catalog organization
-- Map production
-- Spatial data management
+- Satellite imagery
+- Raster visualization
+- Geodatabase management
+- Spatial data organization
 - Cartographic design
 
 ---
@@ -25,29 +25,29 @@ Mosaic datasets allow multiple raster images to be managed as one continuous dat
 
 ### 1. Create the Mosaic Dataset
 
-A new mosaic dataset was created within a geodatabase to organize multiple raster images into a single manageable dataset.
+A mosaic dataset was created inside a geodatabase to organize multiple raster images.
 
-### 2. Add Raster Images
+### 2. Import Raster Images
 
-Raster imagery was imported into the mosaic dataset and configured for display.
+Individual raster tiles were added into the mosaic dataset.
 
-### 3. Configure Dataset Properties
+### 3. Configure the Dataset
 
-Display settings and dataset properties were adjusted to improve image organization and visualization.
+The mosaic dataset was configured so that the imagery displayed as one continuous image.
 
-### 4. Visualize the Mosaic
+### 4. Verify Coverage
 
-The completed mosaic dataset was displayed within ArcGIS Pro to verify image alignment and coverage.
+The completed mosaic was reviewed to ensure all raster tiles aligned correctly.
 
-### 5. Produce the Final Map
+### 5. Export Results
 
-A layout was created and exported to present the completed mosaic dataset.
+The completed imagery was prepared for visualization and mapping.
 
 ---
 
 ## Results
 
-The completed project demonstrates how multiple raster datasets can be combined into a single mosaic dataset for efficient visualization and management. The final product provides a seamless representation of imagery suitable for mapping and analysis.
+The project successfully combined multiple raster datasets into a single mosaic dataset, simplifying imagery management while maintaining full spatial coverage.
 
 ---
 
@@ -59,16 +59,16 @@ This workflow is useful for:
 - Satellite imagery
 - Aerial photography
 - Environmental monitoring
-- Land cover analysis
 - GIS imagery management
-- Natural resource management
-- Cartographic production
+- Land cover analysis
+- Terrain visualization
+- Large raster datasets
 
 ---
 
 ## Project Files
 
-This repository contains the project PDF(s), exported maps, and supporting screenshots documenting the workflow.
+This repository contains the project PDF documenting the completed mosaic dataset.
 
 ---
 
